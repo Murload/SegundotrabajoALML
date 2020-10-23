@@ -1,0 +1,10 @@
+C:\Sena\Fundamentos de programación\TERCER TRIMESTRE\Trabajo 2\bin\Debug\Trabajo 2.exe.config
+C:\Sena\Fundamentos de programación\TERCER TRIMESTRE\Trabajo 2\bin\Debug\Trabajo 2.exe
+C:\Sena\Fundamentos de programación\TERCER TRIMESTRE\Trabajo 2\bin\Debug\Trabajo 2.pdb
+C:\Sena\Fundamentos de programación\TERCER TRIMESTRE\Trabajo 2\obj\Debug\Trabajo 2.csprojAssemblyReference.cache
+C:\Sena\Fundamentos de programación\TERCER TRIMESTRE\Trabajo 2\obj\Debug\Trabajo_2.Form1.resources
+C:\Sena\Fundamentos de programación\TERCER TRIMESTRE\Trabajo 2\obj\Debug\Trabajo_2.Properties.Resources.resources
+C:\Sena\Fundamentos de programación\TERCER TRIMESTRE\Trabajo 2\obj\Debug\Trabajo 2.csproj.GenerateResource.cache
+C:\Sena\Fundamentos de programación\TERCER TRIMESTRE\Trabajo 2\obj\Debug\Trabajo 2.csproj.CoreCompileInputs.cache
+C:\Sena\Fundamentos de programación\TERCER TRIMESTRE\Trabajo 2\obj\Debug\Trabajo 2.exe
+C:\Sena\Fundamentos de programación\TERCER TRIMESTRE\Trabajo 2\obj\Debug\Trabajo 2.pdb
